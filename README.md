@@ -96,8 +96,6 @@ public class Main {
             }
         }
 
-        // Muevo Receta acá, al mismo nivel que Paciente y Medicamento
-
         public static class Receta {
             private int idReceta;
             private String fechaEmision;
